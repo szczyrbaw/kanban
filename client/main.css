@@ -28,7 +28,7 @@ input:-moz-placeholder {
 }
 
 body {
-	background: #FFF;
-	font-family: 'Lato', sans-serif;
+	background: rgb(32, 156, 218);
+	font-family: 'Tahoma', sans-serif;
 	font-size: 16px;
 }
